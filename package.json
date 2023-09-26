@@ -1,0 +1,22 @@
+{
+  "name": "prueba2testing",
+  "version": "1.0.0",
+  "description": "Prueba Numero 2 de Testing en ZeroBank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPVbug/Prueba2Testing.git"
+  },
+  "author": "Marco Contreras - Nicolas Gajardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPVbug/Prueba2Testing/issues"
+  },
+  "homepage": "https://github.com/SPVbug/Prueba2Testing#readme",
+  "dependencies": {
+    "cypress": "^13.2.0"
+  }
+}
